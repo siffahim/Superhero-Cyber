@@ -17,15 +17,15 @@ const News = () => {
     }
     return (
         <div className='display-container'>
-            <div className='container'>
+            <div className='containers'>
                 <div className='worker-container'>
                     {
                         workers.map(worker => <Card key={worker.id} worker={worker} handle={handleSelect} />)
                     }
                 </div>
-            </div>
-            <div>
-                <Cart cart={carts} />
+                <div>
+                    <Cart cart={carts} />
+                </div>
             </div>
         </div>
     );

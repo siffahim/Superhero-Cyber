@@ -1,10 +1,12 @@
-.display-container{
+.containers{
     display: grid;
-    grid-template-columns: 3fr,1fr;
+    grid-template-columns: 3fr 1fr;
+    grid-column-gap: 20px;
 }
 .worker-container{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(3,1fr);
     grid-column-gap: 15px;
     grid-row-gap:15px;
+    padding-left: 8%;
 }   
