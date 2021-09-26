@@ -17,10 +17,19 @@
 .icon2{
     color: #fa8231;
 }
+.img{
+    width: 20px;
+    height: 20px;
+}
 .name{
-    font-style: italic;
+    font-style:unset;
     text-align: left;
     list-style: none;
+    background-color:#fff;
+    box-shadow: 0 0 5px rgb(0,0,0,0.5);
+    border-radius: 3px;
+    margin-bottom: 3px;
+    padding:0 3px;
 }
 .btn-d{
     width: 100px;
