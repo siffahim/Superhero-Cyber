@@ -15,7 +15,7 @@ const Cart = (props) => {
             </button>
             <h6>Totol Cost: ${total}</h6>
             {
-                cart.map(detail => <div className='display'>
+                cart.map(detail => <div className='display' key={detail.id}>
                     <img src={detail.img} className='img' alt="" />
                     <li className='name'>{detail.name}</li>
                 </div> )
