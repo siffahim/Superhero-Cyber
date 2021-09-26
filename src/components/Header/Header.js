@@ -22,7 +22,7 @@ const Header = () => {
             <div className='header-text'>
                 <h2>Make a Cyber Team</h2>
                 <p className='text-muted'>To get something you never had,you have to do something you naver did.</p>
-                <h6>Total Budget: 500 Million</h6>
+                <h6><span>Total Budget:</span> 500 Million</h6>
             </div>
         </div>
     );

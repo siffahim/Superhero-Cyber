@@ -6,6 +6,7 @@
 }
 .card-container:hover{
     transform: translateY(10px,-10px);
+    box-shadow: 0 0 15px gray;
 }
 .card-container img{
     width: 100px;
@@ -13,8 +14,8 @@
     border-radius: 50%;
     display: block;
     margin: 10px auto;
-    box-shadow: 0 0 0 rgb(180, 245, 52);
-    transition: 0.6s ease;
+    box-shadow: 0 0 0 #fa8231;
+    transition: 0.5s ease;
 }
 .card-container:hover img{
     box-shadow: 0 0 0 400px #f1f2f6;
@@ -23,11 +24,11 @@
     display: block;
     margin:12px auto;
     border:1px solid rgb(221, 161, 49);
-    background-image: linear-gradient(rgb(255, 98, 7),rgb(241, 131, 67));
+    background-image: linear-gradient(orange,#fa8231);
     color: #fff;
     padding: 5px 20px;
     font-size: 17px;
-    box-shadow: 0 0 3px rgb(0,0,0,0.5);
+    box-shadow: 0 0 3px rgb(0,0,0,0.3);
 }
 .icon-container{
     text-align: center;
