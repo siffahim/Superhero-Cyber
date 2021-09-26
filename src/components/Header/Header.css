@@ -16,12 +16,18 @@
     justify-content: center;
 }
 .logo-container h2{
-    color:rgb(216, 73, 21);
+    color:#fa8231;
 }
 nav a{
     text-decoration: none;
     margin-left: 20px;
     color:black;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+nav a:hover{
+   background-color:#fa8231;
+   color: #fff;
 }
 .header-text{
     line-height: 7px;
