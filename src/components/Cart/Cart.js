@@ -4,10 +4,8 @@ import './Cart.css';
 const Cart = (props) => {
     const { cart } = props;
     let total = 0;
-    let names = [];
     for (const x of cart) {
         total += x.salary;
-        names.push(x.name);
     }
     return (
         <div className='cart-container'>
@@ -17,7 +15,10 @@ const Cart = (props) => {
             </button>
             <h6>Totol Cost: ${total}</h6>
             {
-                names.map(name => <li className='name'><i class="fas fa-user icon2"></i> {name}</li>)
+                cart.map(detail => <div className='display'>
+                    <img src={detail.img} className='img' alt="" />
+                    <li className='name'>{detail.name}</li>
+                </div> )
             }
         </div>
     );  
