@@ -1,0 +1,66 @@
+.cart-container{
+    position: fixed;
+    width: 19%;
+    height: 250px;
+    top: 300px;
+    right: 0;
+    background-color: #f1f2f6;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border-left: 5px solid;
+    border-image: linear-gradient(135deg,orangered,red);
+    border-image-slice: 2;
+    border-radius: 12px;
+    overflow: scroll;
+}
+.icon2{
+    color: #fa8231;
+}
+.name{
+    font-style: italic;
+    text-align: left;
+    list-style: none;
+}
+.btn-d{
+    width: 100px;
+    border: none;
+    background: transparent;
+    position: relative;
+}
+.icon{
+    font-size: 2em;
+    color: #fa8231;
+}
+.counter{
+    width:18px;
+    height: 18px;
+    position: absolute;
+    top:-12px;
+    right: 20px;
+    border-radius: 50%;
+    padding: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.btn-d{
+    width: 100px;
+    border: none;
+    background: transparent;
+    position: relative;
+}
+.icon{
+    font-size: 2em;
+    color: #fa8231;
+}
+.counter{
+    width:18px;
+    height: 18px;
+    position: absolute;
+    top:-8px;
+    right: 25px;
+    border-radius: 50%;
+    padding: 2px;
+    font-size: 16px;
+    font-weight: bold;
+}

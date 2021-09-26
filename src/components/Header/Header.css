@@ -1,0 +1,30 @@
+.header-container {
+    background-color: #f1f2f6;
+    padding:0 5%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-bottom: 10px;
+}
+.header-container img{
+    width: 60px;
+    margin-right: 5px;
+}
+.logo-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-container h2{
+    color:rgb(216, 73, 21);
+}
+nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    color:black;
+}
+.header-text{
+    line-height: 7px;
+    text-align: center;
+    margin-bottom: 40px;
+}

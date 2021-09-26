@@ -1,0 +1,155 @@
+[
+    {
+        "id": 10001,
+        "name": "Jane Austen",
+        "title": "Software Engineer",
+        "salary": 850000,
+        "age": 25,
+        "country": "USA",
+        "img": "https://cdn.abcotvs.com/dip/images/10881537_071221-wabc-tj-newman-author-img.jpg"
+    },
+    {
+        "id": 10002,
+        "name": "Austen",
+        "title": "Technical Program Manager (TPM)",
+        "salary": 400000,
+        "age": 28,
+        "country": "US",
+        "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_533979613_970647970450028_63688.jpg"
+    },
+    {
+        "id": 10003,
+        "name": "Jane",
+        "title": "Senior Software Engineer",
+        "salary": 5000000,
+        "age": 40,
+        "country": "Eangland",
+        "img": "https://media.istockphoto.com/photos/young-happy-and-successful-south-east-asian-islamic-business-woman-picture-id1179759740?k=20&m=1179759740&s=612x612&w=0&h=1o4dmSHh-VBZmWvtpUTgK-jifP1Ux2iMcR6FaAPtn9A="
+    },
+    {
+        "id": 10004,
+        "name": "Harry",
+        "title": "Software Developer",
+        "salary": 8500000,
+        "age": 35,
+        "country": "New Yourk",
+        "img": "https://hrmcdn-13a1c.kxcdn.com/images/hr-sg/content-images/jerene-feb2021-lady_wfh-123rf.jpg"
+    },
+    {
+        "id": 10005,
+        "name": "Jane Austen",
+        "title": "Software Engineer",
+        "salary": 850000,
+        "age": 25,
+        "country": "Japan",
+        "img": "https://www.nokia.com/sites/default/files/styles/scale_1440_no_crop/public/2021-08/mandvi1_1.png"
+    },
+    {
+        "id": 10006,
+        "name": "Potter",
+        "title": "Data Scientist",
+        "salary": 650000,
+        "age": 28,
+        "country": "Singapur",
+        "img": "https://img.freepik.com/free-photo/image-irritated-employee-sitting-office-desk_273609-31650.jpg?size=626&ext=jpg"
+    },
+    {
+        "id": 10007,
+        "name": "Jack",
+        "title": "Product Marketing Manager",
+        "salary": 40000,
+        "age": 27,
+        "country": "Xoford,Uk",
+        "img": "https://www.greatplacetowork.com/images/Claire-Hastwell-Headshot-2020.jpg"
+    },
+    {
+        "id": 10008,
+        "name": "Janifer",
+        "title": "Web Developer",
+        "salary": 350000,
+        "age": 36,
+        "country": "Canada",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItyCk35OXHSL7xDgwyedts0eiT9pOi4HM85-9ghSRYG3is2n6tEoeo8KBgkmnHM1Yuqs&usqp=CAU"
+    },
+    {
+        "id": 10009,
+        "name": "Anne Marre",
+        "title": "Product Manager, Software",
+        "salary": 900000,
+        "age": 28,
+        "country": "Newzeland",
+        "img": "https://2019.intersectionconf.com/data/people/images/claire-lise-bengue.jpg"
+    },
+    {
+        "id": 100010,
+        "name": "Jhon Austen",
+        "title": "Account Manager",
+        "salary": 350000,
+        "age": 23,
+        "country": "France",
+        "img": "https://www.celebnest.com/uploads/celebs/1/jesse_mccartney.jpg"
+    },
+    {
+        "id": 100011,
+        "name": "Jane Austen",
+        "title": "Technical Account Manager",
+        "salary": 650000,
+        "age": 18,
+        "country": "America",
+        "img": "https://cdn.abcotvs.com/dip/images/10881537_071221-wabc-tj-newman-author-img.jpg"
+    },
+    {
+        "id": 100012,
+        "name": "Ema Ax",
+        "title": "Software Engineer",
+        "salary": 80000,
+        "age": 25,
+        "country": "Russia",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/danielle-savre-station-19-abc-1554465397.jpg"
+    },
+    {
+        "id": 100013,
+        "name": "Json Halari",
+        "title": "UX Researcher",
+        "salary": 86000,
+        "age": 31,
+        "country": "China",
+        "img": "https://images.squarespace-cdn.com/content/v1/5c745b19c2ff6174b1290e42/1591727752071-ZBBPWOIVU7XYOL0CTTSO/electric-capital-headshots-7850-2019-12-12.jpg"
+    },
+    {
+        "id": 100014,
+        "name": "Jadaja",
+        "title": "Program Manager, IT",
+        "salary": 850000,
+        "age": 35,
+        "country": "Garman",
+        "img": "https://pbs.twimg.com/profile_images/1057965436669698048/ERVOaTD9.jpg"
+    },
+    {
+        "id": 100015,
+        "name": "Janjus Samson",
+        "title": "Account Executive",
+        "salary": 850000,
+        "age": 18,
+        "country": "London,Uk",
+        "img": "https://alphastar.academy/wp-content/uploads/2017/06/agoel.jpg"
+    },
+    {
+        "id": 100016,
+        "name": "Joss Butler",
+        "title": "Programmer Manager",
+        "salary": 60000,
+        "age": 45,
+        "country": "Toronto,Canada",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgSK5visMLw1ioyvwnaVaApVu4V1l49C8zIj8OfQ3dYCU9RvJV3qUV-aPLzF7dLAbayrI&usqp=CAU"
+    },
+    {
+        "id": 100017,
+        "name": "Brain S",
+        "title": "UI Engineer",
+        "salary": 30000,
+        "age": 23,
+        "country": "South Africa",
+        "img": "https://alphastar.academy/wp-content/uploads/2018/04/Kevin-Liu.jpg"
+    }
+]
